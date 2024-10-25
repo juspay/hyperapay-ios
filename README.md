@@ -1,2 +1,3 @@
-# hyperapay-ios
-Swift package manager version of HyperAPay
+# HyperAPay
+
+Supports AmazonPay SDK through HyperSDK.
