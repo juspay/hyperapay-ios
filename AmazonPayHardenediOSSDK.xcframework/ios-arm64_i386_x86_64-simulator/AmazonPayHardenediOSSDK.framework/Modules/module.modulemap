@@ -1,0 +1,6 @@
+framework module AmazonPayHardenediOSSDK {
+  umbrella header "AmazonPayHardenediOSSDK.h"
+
+  export *
+  module * { export * }
+}
