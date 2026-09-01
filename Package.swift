@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "HyperAPay",
-            url: "https://public.releases.juspay.in/release/ios/hyper-sdk/2.2.9.2/HyperAPay.zip",
-            checksum: "5d9e61959b26cbb8cb88fa6164712462e2181441534bfc794f77dd0624de06b3"
+            url: "https://public.releases.juspay.in/release/ios/hyper-sdk/2.2.9.3/HyperAPay.zip",
+            checksum: "1617799faa1cd4dbdaa686eab36d7362a2074f71ad7145d6fc1ee00c4a4731c4"
         ),
         .binaryTarget(
             name: "AmazonPayHardenediOSSDK",
